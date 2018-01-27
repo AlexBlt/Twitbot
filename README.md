@@ -1,0 +1,1 @@
+Twitter Bot searching tweets containing provided keywords. Retweet them and follow user and mentions inside the tweet.
